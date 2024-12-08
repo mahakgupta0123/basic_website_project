@@ -1,0 +1,31 @@
+﻿
+.dark-theme {
+background-color: white;
+color: yellow;
+}
+
+.segment-heading {
+font-family: 'Arial', sans-serif;
+font-size: 60;
+color: black;
+}
+ 
+ /* Resetting default margin and padding */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* Styling for the footer */
+.footer {
+  background-color:grey(255, 34, 255, 0.215);
+  text-align: center;
+  padding: 10px 0;
+}
+
+.footer-text {
+  font-weight: bold;
+  color: black;
+  font-size: 16px;
+  margin-bottom: 5px;
+}
